@@ -1,0 +1,8 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0019911","structural constituent of myelin sheath","4/150","10/28404",1.53078667651594e-07,5.26590616721484e-05,4.0767266227214e-05,"Mal/Mbp/Mobp/Pllp",4
+"GO:0050840","extracellular matrix binding","5/150","57/28404",1.28918885499303e-05,0.00443480966117604,0.00153732293639853,"Ctss/Dmbt1/Olfml2b/Sparcl1/Thbs4",5
+"GO:0051861","glycolipid binding","4/150","30/28404",1.83996458543334e-05,0.00632947817389071,0.00153732293639853,"Ceacam1/Epdr1/Gpaa1/Mag",4
+"GO:0031720","haptoglobin binding","3/150","11/28404",2.30902259221914e-05,0.00794303771723383,0.00153732293639853,"Hba-x/Hbb-bh1/Hbb-y",3
+"GO:0140104","molecular carrier activity","5/150","73/28404",4.32137798205225e-05,0.0148655402582598,0.00223477811044292,"Clu/Hba-x/Hbb-bh1/Hbb-y/Trf",5
+"GO:0005344","oxygen carrier activity","3/150","14/28404",5.03487558479235e-05,0.0173199720116857,0.00223477811044292,"Hba-x/Hbb-bh1/Hbb-y",3
+"GO:0005518","collagen binding","5/150","80/28404",6.7143446581032e-05,0.023097345623875,0.00255447999774453,"Col6a2/Cspg4/Ctss/Sparcl1/Thbs4",5

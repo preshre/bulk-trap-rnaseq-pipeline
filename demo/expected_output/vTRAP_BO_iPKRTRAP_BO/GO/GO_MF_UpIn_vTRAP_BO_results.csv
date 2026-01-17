@@ -1,0 +1,9 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0003924","GTPase activity","16/167","296/28404",2.61992427750028e-11,8.82914481517596e-09,7.30820982671132e-09,"Gbp10/Gbp2/Gbp6/Gbp9/Gm4841/Gng4/Iigp1/Irgm2/Kras/Mx1/Mx2/Rab37/Rasl11a/Tgtp1/Tgtp2/Tubb6",16
+"GO:0005525","GTP binding","15/167","361/28404",4.17522922306546e-09,1.40705224817306e-06,5.82334602164394e-07,"Arl5b/Gbp10/Gbp2/Gbp6/Gbp9/Iigp1/Kras/Mx1/Mx2/Npr1/Rab37/Rasl11a/Rigi/Tgtp1/Tubb6",15
+"GO:0019001","guanyl nucleotide binding","15/167","384/28404",9.5575369345523e-09,3.22088994694412e-06,6.66512444120094e-07,"Arl5b/Gbp10/Gbp2/Gbp6/Gbp9/Iigp1/Kras/Mx1/Mx2/Npr1/Rab37/Rasl11a/Rigi/Tgtp1/Tubb6",15
+"GO:0032561","guanyl ribonucleotide binding","15/167","384/28404",9.5575369345523e-09,3.22088994694412e-06,6.66512444120094e-07,"Arl5b/Gbp10/Gbp2/Gbp6/Gbp9/Iigp1/Kras/Mx1/Mx2/Npr1/Rab37/Rasl11a/Rigi/Tgtp1/Tubb6",15
+"GO:0061629","RNA polymerase II-specific DNA-binding transcription factor binding","11/167","376/28404",1.51279548547532e-05,0.00509812078605182,0.000843980639265177,"Arid5a/Dcaf1/Dtx3l/Egr2/Eomes/Fos/Mef2c/Nr4a2/Nr4a3/Smarca1/Stat1",11
+"GO:0061659","ubiquitin-like protein ligase activity","10/167","339/28404",3.47059523732383e-05,0.0116959059497813,0.00161352234717687,"Cbl/Dtx3l/Egr2/Herc6/Lonrf3/Marchf5/Rnf187/Rnf213/Trim30a/Trim30d",10
+"GO:0003714","transcription corepressor activity","7/167","191/28404",0.000142496493296711,0.0480213182409916,0.00503750139720232,"Arid5a/Ccnd1/Dnajb1/Eno1b/Kdm5b/Parp10/Parp14",7
+"GO:0061630","ubiquitin protein ligase activity","9/167","327/28404",0.000145060238856368,0.0488853004945959,0.00503750139720232,"Cbl/Dtx3l/Herc6/Lonrf3/Marchf5/Rnf187/Rnf213/Trim30a/Trim30d",9

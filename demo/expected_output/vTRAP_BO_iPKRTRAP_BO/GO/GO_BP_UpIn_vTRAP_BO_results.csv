@@ -1,0 +1,25 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0009615","response to virus","21/172","347/28943",2.31567115958849e-15,5.73128611998152e-12,4.22991803321342e-12,"Bst2/Dtx3l/Eif2ak2/Ifi27l2a/Ifit1/Ifitm3/Irf7/Isg15/Mx1/Mx2/Nmb/Oas3/Oasl2/Pou2af1/Rigi/Rsad2/Rtp4/Stat1/Tgtp1/Trim30a/Trim30d",21
+"GO:0035456","response to interferon-beta","12/172","65/28943",4.03253600757928e-15,9.98052661875872e-12,4.22991803321342e-12,"Bst2/Gbp2/Gbp6/Gm4841/Ifit1/Ifitm3/Iigp1/Irgm2/Stat1/Tgtp1/Tgtp2/Xaf1",12
+"GO:0051607","defense response to virus","18/172","289/28943",1.55743840109493e-13,3.85466004270995e-10,8.66476945350543e-11,"Bst2/Dtx3l/Eif2ak2/Ifit1/Ifitm3/Irf7/Isg15/Mx1/Mx2/Nmb/Oas3/Oasl2/Rigi/Rsad2/Rtp4/Stat1/Trim30a/Trim30d",18
+"GO:0140546","defense response to symbiont","18/172","290/28943",1.65208850593681e-13,4.0889190521936e-10,8.66476945350543e-11,"Bst2/Dtx3l/Eif2ak2/Ifit1/Ifitm3/Irf7/Isg15/Mx1/Mx2/Nmb/Oas3/Oasl2/Rigi/Rsad2/Rtp4/Stat1/Trim30a/Trim30d",18
+"GO:0048525","negative regulation of viral process","12/172","101/28943",9.92615656785245e-13,2.45672375054348e-09,4.16480632415367e-10,"Bst2/Eif2ak2/Ifitm3/Isg15/Ltf/Oas3/Oasl2/Parp10/Rsad2/Stat1/Trim30a/Trim30d",12
+"GO:0035458","cellular response to interferon-beta","9/172","57/28943",5.27389797971353e-11,1.3052897499791e-07,1.84401380238054e-08,"Gbp2/Gbp6/Gm4841/Ifit1/Iigp1/Irgm2/Stat1/Tgtp1/Tgtp2",9
+"GO:0045071","negative regulation of viral genome replication","9/172","58/28943",6.21095443112527e-11,1.5372112217035e-07,1.86141837311769e-08,"Bst2/Eif2ak2/Ifitm3/Isg15/Ltf/Oas3/Oasl2/Parp10/Rsad2",9
+"GO:0050792","regulation of viral process","12/172","175/28943",6.67760690930493e-10,1.65270771005297e-06,1.75111454871641e-07,"Bst2/Eif2ak2/Ifitm3/Isg15/Ltf/Oas3/Oasl2/Parp10/Rsad2/Stat1/Trim30a/Trim30d",12
+"GO:1903900","regulation of viral life cycle","11/172","151/28943",1.85202621398689e-09,4.58376487961756e-06,4.31706227424079e-07,"Bst2/Eif2ak2/Ifitm3/Isg15/Ltf/Oas3/Oasl2/Parp10/Rsad2/Trim30a/Trim30d",11
+"GO:0042832","defense response to protozoan","7/172","39/28943",3.03407719657881e-09,7.50934106153255e-06,6.36517458187533e-07,"Batf2/Gbp10/Gbp2/Gbp6/Gbp9/Iigp1/Irgm2",7
+"GO:0045069","regulation of viral genome replication","9/172","95/28943",5.67975255088918e-09,1.40573875634507e-05,1.08322936209781e-06,"Bst2/Eif2ak2/Ifitm3/Isg15/Ltf/Oas3/Oasl2/Parp10/Rsad2",9
+"GO:0001562","response to protozoan","7/172","44/28943",7.37280544128519e-09,1.82476934671808e-05,1.28894747758609e-06,"Batf2/Gbp10/Gbp2/Gbp6/Gbp9/Iigp1/Irgm2",7
+"GO:0034341","response to interferon-gamma","10/172","139/28943",1.16292199542916e-08,2.87823193868718e-05,1.87668302582212e-06,"Bst2/Gbp10/Gbp2/Gbp6/Gbp9/Ifitm3/Irgm2/Parp14/Stat1/Tgtp1",10
+"GO:0016032","viral process","14/172","355/28943",3.11391777703875e-08,7.7069464981709e-05,4.66619408243475e-06,"Bst2/Dcaf1/Ddx6/Eif2ak2/Ifitm3/Isg15/Ltf/Oas3/Oasl2/Parp10/Rsad2/Stat1/Trim30a/Trim30d",14
+"GO:0019058","viral life cycle","12/172","261/28943",5.92601812821875e-08,0.000146668948673414,8.28810816108068e-06,"Bst2/Ddx6/Eif2ak2/Ifitm3/Isg15/Ltf/Oas3/Oasl2/Parp10/Rsad2/Trim30a/Trim30d",12
+"GO:0019079","viral genome replication","9/172","130/28943",8.91170715549765e-08,0.000220564752098567,1.16848897111229e-05,"Bst2/Eif2ak2/Ifitm3/Isg15/Ltf/Oas3/Oasl2/Parp10/Rsad2",9
+"GO:0035455","response to interferon-alpha","5/172","31/28943",1.04824804231819e-06,0.00259441390473751,0.000129359650052021,"Bst2/Eif2ak2/Ifit1/Ifitm3/Tgtp1",5
+"GO:0035914","skeletal muscle cell differentiation","7/172","94/28943",1.53480947582562e-06,0.00379865345266842,0.000178881595632776,"Atf3/Egr1/Egr2/Eomes/Fos/Kras/Mef2c",7
+"GO:0044406","adhesion of symbiont to host","4/172","18/28943",3.45322423266497e-06,0.00854672997584579,0.00038128952330755,"Gbp2/Gbp6/Gbp9/Ltf",4
+"GO:0032481","positive regulation of type I interferon production","6/172","72/28943",4.5571822328003e-06,0.0112790260261808,0.000478024431051106,"Irf7/Isg15/Nmb/Oas3/Rigi/Stat1",6
+"GO:0032606","type I interferon production","7/172","112/28943",4.96670969133895e-06,0.0122926064860639,0.000496173053375364,"Irf7/Irf9/Isg15/Nmb/Oas3/Rigi/Stat1",7
+"GO:0051865","protein autoubiquitination","6/172","80/28943",8.4278629011926e-06,0.0208589606804517,0.000803671328329036,"Cbl/Dtx3l/Marchf5/Rnf187/Rnf213/Trim30a",6
+"GO:0032727","positive regulation of interferon-alpha production","4/172","26/28943",1.62561875071685e-05,0.040234064080242,0.00148277261793075,"Irf7/Nmb/Rigi/Stat1",4
+"GO:0030534","adult behavior","8/172","189/28943",1.84403832396006e-05,0.0456399485180115,0.00161191595598789,"Chrna3/Chrnb4/Fgfbp3/Gpr39/Nos1/Nr4a2/Nr4a3/Pbx3",8
